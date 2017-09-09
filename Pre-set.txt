@@ -1,0 +1,3 @@
+NAND and 300 300 not 500 300
+NOR or 300 300 not 500 300
+XNOR xor 300 300 not 500 300
